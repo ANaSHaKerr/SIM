@@ -2,7 +2,7 @@
  An application for the Ministry of the Saudi Navy for the Saudi Maritime Exhibition
 
 
- An application for the Ministry of the Saudi Navy for the Saudi Maritime Exhibition<img src="https://i.imgur.com/KS7Z7aD.jpg">
+ An application for the Ministry of the Saudi Navy for the Saudi Maritime Exhibition
 	<img src="https://i.imgur.com/pCEjQOl.jpg">
 	<img src="https://i.imgur.com/1WYfZ63.jpg">
   <img src="https://i.imgur.com/QfoKppU.jpg">
