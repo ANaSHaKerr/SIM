@@ -1,6 +1,9 @@
 # SIM
  An application for the Ministry of the Saudi Navy for the Saudi Maritime Exhibition
 
+google play link : https://play.google.com/store/apps/datasafety?id=com.app.sim.sim&hl=ar
+
+apple store link : https://apps.apple.com/us/app/sim-2022/id6444087360?platform=iphone
 
  An application for the Ministry of the Saudi Navy for the Saudi Maritime Exhibition
 	<img src="https://i.imgur.com/pCEjQOl.jpg">
